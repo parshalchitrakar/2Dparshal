@@ -1,0 +1,44 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     717 MB
+    Driver:   8.15.10.2993
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\suraj\Desktop\Haripriya - VRSEC(Task)\2D game\task 11- full game\hungry bird_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\suraj\Desktop\Haripriya - VRSEC(Task)\2D game\task 11- full game\hungry bird_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\suraj\Desktop\Haripriya - VRSEC(Task)\2D game\task 11- full game\hungry bird_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\suraj\Desktop\Haripriya - VRSEC(Task)\2D game\task 11- full game\hungry bird_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\suraj\Desktop\Haripriya - VRSEC(Task)\2D game\task 11- full game\hungry bird_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\suraj\Desktop\Haripriya - VRSEC(Task)\2D game\task 11- full game\hungry bird_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\suraj\Desktop\Haripriya - VRSEC(Task)\2D game\task 11- full game\hungry bird_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\suraj\Desktop\Haripriya - VRSEC(Task)\2D game\task 11- full game\hungry bird_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+Platform assembly: C:\Users\suraj\Desktop\Haripriya - VRSEC(Task)\2D game\task 11- full game\hungry bird_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\suraj\Desktop\Haripriya - VRSEC(Task)\2D game\task 11- full game\hungry bird_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.601957 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1530 -> priority: 1 
+  Thread -> id: 1c7c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.613276 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1022.
+Total: 0.846471 ms (FindLiveObjects: 0.085657 ms CreateObjectMapping: 0.070258 ms MarkObjects: 0.664088 ms  DeleteObjects: 0.025504 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.508118 ms
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 1.552907 ms (FindLiveObjects: 0.042828 ms CreateObjectMapping: 0.067371 ms MarkObjects: 0.475929 ms  DeleteObjects: 0.966296 ms)
+
+The Game is Quited
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
